@@ -1,0 +1,16 @@
+2018/12/05 週三 17:45:36.03 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/05 週三 17:45:46.13 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/05 週三 19:24:39.95 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/05 週三 19:24:50.13 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/06 週四 18:58:15.12 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/06 週四 18:58:25.15 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/07 週五 19:15:03.18 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/07 週五 19:15:14.16 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/11 週二 18:42:26.88 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/11 週二 18:42:37.10 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/12 週三 19:15:23.83 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/12 週三 19:15:34.10 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/13 週四 18:46:22.13 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/13 週四 18:46:32.17 "Z:\util\AdobeCC_2018_License\activate.bat" end 
+2018/12/14 週五 20:47:06.61 "Z:\util\AdobeCC_2018_License\activate.bat" start 
+2018/12/14 週五 20:47:17.18 "Z:\util\AdobeCC_2018_License\activate.bat" end 
